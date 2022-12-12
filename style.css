@@ -1,0 +1,15 @@
+html{
+    height: 100%;
+}
+body{
+    background: linear-gradient( 45deg, green, red);
+
+}
+.wrap{
+    color: white;
+    font-size: 50px;
+}
+.cen{
+    text-align: center;
+    margin-top: 300px;
+}
